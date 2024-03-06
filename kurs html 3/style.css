@@ -1,0 +1,25 @@
+body
+{
+    background-color: #303030;
+    color: #ffff;
+}
+
+#container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rectangle
+{
+    width: 960px;
+    margin: 20px;
+
+}
+
+.square
+{
+    width: 50%;
+    float: left;
+}
