@@ -2,6 +2,8 @@ body
 {
     background-color: #303030;
     color: #ffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
 }
 
 #container
@@ -15,7 +17,7 @@ body
 {
     width: 960px;
     margin: 20px;
-
+    text-align: center;
 }
 
 .square
@@ -23,3 +25,179 @@ body
     width: 50%;
     float: left;
 }
+
+#logo
+{
+  float: left;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 70px;
+  width: 600px;
+  text-align: left;
+}
+
+#zegar
+{
+  float: left;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 70px;
+  text-align: left;
+}
+
+.tile1
+{
+  margin: 10px;
+  width: 230px;
+  height: 142px;
+  background-color: #3095d3;
+  float: left;
+}
+
+.tile2
+{
+  margin: 10px;
+  width: 230px;
+  height: 142px;
+  background-color: #666666;
+  float: left;
+}
+
+.tile3
+{
+  margin: 10px;
+  width: 230px;
+  height: 142px;
+  background-color: #93c748;
+  float: left;
+}
+
+.tile4
+{
+  margin: 10px;
+  width: 480px;
+  height: 142px;
+  background-color: #ee5a32;
+}
+
+.tile5
+{
+  margin: 10px;
+  width: 480px;
+  height: 304px;
+  background-color: #666666;
+}
+
+.yt
+{
+  margin: 10px;
+  width: 105px;
+  height: 142px;
+  background-color: #d94348;
+  float: left;
+}
+
+.fb
+{
+  margin: 10px;
+  width: 105px;
+  height: 142px;
+  background-color: #4668b3;
+  float: left;
+}
+
+.gp
+{
+  margin: 10px;
+  width: 105px;
+  height: 142px;
+  background-color: #d95333;
+  float: left;
+}
+
+.x
+{
+  margin: 10px;
+  width: 105px;
+  height: 142px;
+  background-color: #3095d3;
+  float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.lato-thin {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .lato-light {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .lato-bold {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .lato-black {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .lato-thin-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .lato-light-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .lato-regular-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .lato-bold-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .lato-black-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+
