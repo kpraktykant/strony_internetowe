@@ -186,7 +186,12 @@ a.stilelink
   height: 142px;
 }
 
-
+a.logolink
+{
+  color: #ffffff;
+  text-decoration: none;
+  width: 600px;
+}
 
 
 
