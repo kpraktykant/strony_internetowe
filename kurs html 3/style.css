@@ -96,18 +96,20 @@ body
   height: 82px;
   background-color: #ee5a32;
   text-align: center;
-  float: left;
   font-size: 26px;
   padding: 30px;
+  line-height: 150%;
 }
 
 .tile5
 {
   margin: 10px;
-  width: 480px;
-  height: 304px;
-  text-align: center;
+  width: 420px;
+  height: 244px;
   background-color: #666666;
+  text-align: justify;
+  padding: 30px;
+  font-size: 19px;
 }
 
 .yt
